@@ -23,8 +23,8 @@ development:
   database: development
   pool: 5
   username: root
-  password:
-  host: localhost
+  password: VAR_PASS
+  host: VAR_HOST
   port: 3306
 
 # Warning: The database defined as "test" will be erased and
